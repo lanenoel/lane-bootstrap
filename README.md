@@ -1,3 +1,7 @@
+By Lane, Intro Coding for Journalists class
+
+This repo is a class assignment to learn bootsrap. It was started on October 9, 2023.
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
